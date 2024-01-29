@@ -53,9 +53,3 @@ services:
   region: singapore
   runtime: image
   type: web
-- image:
-    url: ujidhueci/kioefgjit:kodwe
-  name: mwrdiletkqjcosf
-  region: singapore
-  runtime: image
-  type: web
